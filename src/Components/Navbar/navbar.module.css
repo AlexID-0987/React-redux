@@ -1,0 +1,15 @@
+.item{
+    background-color: indianred;
+}
+.item{
+    grid-area: nav;
+}
+.item1{
+    margin: 1em;
+}
+.item1 a{
+   color: white;
+}
+.item1 a.active{
+    color:gold;
+}

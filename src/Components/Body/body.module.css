@@ -1,0 +1,13 @@
+.item{
+    background-color: burlywood;
+
+}
+.item{
+    grid-area: body;
+}
+.body{
+    display: grid;
+    grid-gap: 2px;
+    grid-template-areas:
+    'first second';
+}

@@ -1,0 +1,8 @@
+.item{
+    grid-area: body;
+    background-color: aquamarine;
+}
+.item img{
+    width:20%;
+    margin:1em;
+}

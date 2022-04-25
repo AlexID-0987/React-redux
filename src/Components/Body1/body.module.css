@@ -1,0 +1,10 @@
+.item{
+    grid-area: body;
+    background-color: palegreen;
+
+}
+.item img{
+    width: 20%;
+    border-radius: 2em;
+    margin: 2em;
+}
