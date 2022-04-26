@@ -1,0 +1,1 @@
+export const ADD_MESS='ADD',DELETE_MESS='DELETE'

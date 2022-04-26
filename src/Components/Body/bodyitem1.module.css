@@ -1,7 +1,5 @@
 .item{
     background-color: coral;
     grid-area: second;
-}
-.item p{
-    font-size: 5em;
+
 }
